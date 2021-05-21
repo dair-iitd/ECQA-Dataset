@@ -79,4 +79,4 @@ Please consider citing this paper if you use the data:
 ```
 
 ## License
-[Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/)
+[Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/)
