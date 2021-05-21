@@ -10,14 +10,14 @@ The entire annotated data is present in the file named ```ecqa.jsonl```, which c
 
 ```json
 {
-  "id": < CQA Data ID >,
-  "positives": list of strings,
-  "negatives": list of strings,
-  "explanation": string
+  "id": typeof(string),
+  "positives": typeoof(list_of_strings),
+  "negatives": typeof(list_of_strings),
+  "explanation": typeof(string)
 }
 ```
 
-Here, "positives" contains the list of positive properties to justify the correctness of the correct option, "negatives" contains the list of negative properties to refute the incorrect options, and "explanation" contains the free flow explanation for the question.
+Here, "positives" contains the list of positive properties to justify the correctness of the correct option, "negatives" contains the list of negative properties to refute the incorrect options, and "explanation" contains the free flow explanation for the question. The "id" contains the id to map the annotation to the CQA data sample.
 
 Inside the ```author_split``` folder, we provide 3 files -
 ```
@@ -53,7 +53,7 @@ cqa_data_test.csv
 
 where each of the above file, has the following 13 columns -
 
-* <No header> : Index starting from 0
+* {No header} : Index starting from 0
 * q_no : CQA DATA ID
 * q_concept : Question Concept (from CQA)
 * q_text : Question Stem Text (from CQA)
