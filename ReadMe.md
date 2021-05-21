@@ -67,6 +67,8 @@ where each of the above file, has the following 13 columns -
 * taskA_neg : Newline separeted list of negative properties (from ECQA)
 * taskB : Free flow explanation for the CQA sample (from ECQA)
 
+The first file has the complete data, while the other 3 contain the train, validation and test data used in the experiments desribed in our paper.
+
 ## Citations
 Please consider citing this paper if you use the data:
 ```
