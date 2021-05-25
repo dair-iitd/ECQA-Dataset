@@ -34,7 +34,7 @@ Where each file has contains ids for the corresponding train, validation and tes
 
 ## Joining with the CQA Data
 
-First create a directory named ```cqa``` inside the root directory of the repository. Download the official train and dev split of the CommonSenseQA from their official webpage, [https://www.tau-nlp.org/commonsenseqa](https://www.tau-nlp.org/commonsenseqa), and place the following downloaded files in the above created ```cqa``` directory.
+First create a directory named ```cqa``` inside the root directory of the repository. Download the official train and dev split of the CommonsenseQA from their official webpage, [https://www.tau-nlp.org/commonsenseqa](https://www.tau-nlp.org/commonsenseqa), and place the following downloaded files in the above created ```cqa``` directory.
 ```
 train_rand_split.jsonl
 dev_rand_split.jsonl
