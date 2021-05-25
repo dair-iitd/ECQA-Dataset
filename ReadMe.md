@@ -1,4 +1,4 @@
-# Explanations for CommonSenseQA: Dataset
+# Explanations for CommonsenseQA: Dataset
 
 This repository contains the publicly released dataset for the Explanations for CommonsenseQA paper, presented at ACL-IJCNLP 2021. We provide the complete annotated dataset in the file ```ecqa.jsonl```, the id mappings for the train, test and validation split used in our experiments in the folder ```author_split```.
 
