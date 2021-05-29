@@ -40,6 +40,13 @@ train_rand_split.jsonl
 dev_rand_split.jsonl
 ```
 
+You will need to install python ```json``` and ```pandas``` libraries to run the given script. To install them, run the following commands -
+
+```bash
+pip3 install json
+pip3 install pandas
+```
+
 Now run the following command -
 
 ```bash
