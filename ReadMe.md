@@ -84,7 +84,7 @@ The first file has the complete data, while the other 3 contain the train, valid
 Please consider citing this paper if you use the data:
 ```
 @inproceedings{aggarwal2021ecqa,
-  title={Explanations for CommonsenseQA: New Dataset and Models},
+  title={{E}xplanations for {C}ommonsense{QA}: {N}ew {D}ataset and {M}odels},
   author={Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla, Dinesh Garg},
   booktitle={The 59th Annual Meeting of the Association for Computational Linguistics (ACL)},
   year={2021}
