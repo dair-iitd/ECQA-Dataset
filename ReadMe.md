@@ -83,11 +83,13 @@ The first file has the complete data, while the other 3 contain the train, valid
 ## Citations
 Please consider citing this paper if you use the data:
 ```
-@inproceedings{aggarwal2021ecqa,
+@inproceedings{aggarwaletal2021ecqa,
   title={{E}xplanations for {C}ommonsense{QA}: {N}ew {D}ataset and {M}odels},
-  author={Shourya Aggarwal, Divyanshu Mandowara, Vishwajeet Agrawal, Dinesh Khandelwal, Parag Singla, Dinesh Garg},
-  booktitle={The 59th Annual Meeting of the Association for Computational Linguistics (ACL)},
-  year={2021}
+  author={Shourya Aggarwal and Divyanshu Mandowara and Vishwajeet Agrawal and Dinesh Khandelwal and Parag Singla and Dinesh Garg},
+  booktitle="Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)}",
+  year = "2021",
+  address = "Online",
+  publisher = "Association for Computational Linguistics"
 }
 ```
 
