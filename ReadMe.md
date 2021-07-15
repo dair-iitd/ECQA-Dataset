@@ -94,4 +94,4 @@ Please consider citing this paper if you use the data:
 ```
 
 ## License
-[Creative Commons Attribution-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-sa/4.0/)
+[Community Data License Agreements Sharing license 1.0](https://github.com/Community-Data-License-Agreements/Releases)
