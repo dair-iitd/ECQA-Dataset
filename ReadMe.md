@@ -1,6 +1,6 @@
 # Explanations for CommonsenseQA: Dataset
 
-This repository contains the publicly released dataset for the Explanations for CommonsenseQA paper, presented at ACL-IJCNLP 2021. We provide the complete annotated dataset in the file ```ecqa.jsonl```, the id mappings for the train, test and validation split used in our experiments in the folder ```author_split```.  Same contents are also made available by our research partner IBM Research [here](https://github.com/IBM/ecqa). You can download the paper from [here](https://aclanthology.org/2021.acl-long.238/).
+This repository contains the publicly released dataset for the Explanations for CommonsenseQA paper, presented at ACL-IJCNLP 2021. We provide the complete annotated dataset in the file ```ecqa.jsonl```, the id mappings for the train, test and validation split used in our experiments in the folder ```author_split```.  Same contents are also made available by IBM Research (our AIHN collaboration partner) [here](https://github.com/IBM/ecqa). You can download the paper from [here](https://aclanthology.org/2021.acl-long.238/).
 
 Note that these annotations are provided for the questions of the CommonsenseQA data ([https://www.tau-nlp.org/commonsenseqa](https://www.tau-nlp.org/commonsenseqa)): arXiv:1811.00937 [cs.CL] (or arXiv:1811.00937v2 [cs.CL] for this version).
 
